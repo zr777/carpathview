@@ -10,9 +10,9 @@ python view.py
 
 ###### 效果
 
-![rendering1.png](.\rendering1.png)
+![](./rendering1.png)
 
-![view.gif](.\view.gif)
+![](./view.gif)
 
 ###### 主要代码
 ```
